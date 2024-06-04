@@ -1,4 +1,4 @@
-const API_KEY = 'd09761ad0491cc386f522c982021ca7f';
+const API_KEY = '';
 const ville = 'Montrouge';
 const url = `https://api.openweathermap.org/data/2.5/weather?q=${ville}&appid=${API_KEY}&units=metric&lang=fr`;
 
