@@ -1,4 +1,4 @@
-const API_KEY = 'd09761ad0491cc386f522c982021ca7f';
+const API_KEY = '';
 let ville = 'Montrouge';
 
 async function fetchWeather(ville) {
